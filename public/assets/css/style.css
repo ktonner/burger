@@ -1,5 +1,7 @@
-h1,h2,h2{
+h1,h2,h3{
   color:white;
+  display:block;
+  width:400px;
 }
 
 li {
@@ -20,4 +22,9 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.box{
+background-color: lightgray;
+margin:5px;
 }
