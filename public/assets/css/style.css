@@ -1,7 +1,14 @@
+h1{
+
+}
+
 h1,h2,h3{
   color:white;
+  font-family: 'Indie Flower', cursive;
   display:block;
   width:400px;
+  margin: 10px;
+  text-align: center;
 }
 
 li {
